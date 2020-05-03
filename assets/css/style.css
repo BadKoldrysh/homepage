@@ -1,0 +1,16 @@
+.contacts {
+	flex-direction: column;
+}
+
+.contacts li a.twitter:hover {
+  color: #00acee;
+}
+
+.contacts li a.instagram:hover {
+  color: #515bd4;
+}
+
+.avatar {
+	border-radius: 50%;
+	max-width: 9rem;
+}
