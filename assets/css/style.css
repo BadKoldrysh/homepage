@@ -1,5 +1,5 @@
 .contacts {
-	flex-direction: column;
+  flex-direction: column;
 }
 
 .contacts li a.twitter:hover {
@@ -11,6 +11,6 @@
 }
 
 .avatar {
-	border-radius: 50%;
-	max-width: 9rem;
+  border-radius: 50%;
+  max-width: 9rem;
 }
